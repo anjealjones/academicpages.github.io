@@ -4,7 +4,7 @@ collection: teaching
 type: "Google"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Google Trends"
-date: 2015-01-01
+date: 2019-01-01
 location: "City, Country"
 ---
 
