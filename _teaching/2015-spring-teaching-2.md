@@ -1,7 +1,7 @@
 ---
 title: "Google"
 collection: teaching
-type: "Workshop"
+type: "Google"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Google Trends"
 date: 2015-01-01
